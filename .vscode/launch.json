@@ -1,0 +1,119 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch JavaLambdaStreamsParalelos",
+            "request": "launch",
+            "mainClass": "LambdaAula13.JavaLambdaStreamsParalelos",
+            "projectName": "LambdaJava_372913c4"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaLambdaCollections",
+            "request": "launch",
+            "mainClass": "LambdaAula12.JavaLambdaCollections",
+            "projectName": "LambdaJava_372913c4"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaLambdaStreamsCreation",
+            "request": "launch",
+            "mainClass": "LambdaAula11.JavaLambdaStreamsCreation",
+            "projectName": "LambdaJava_372913c4"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaLambdaFunctionalInterfaces",
+            "request": "launch",
+            "mainClass": "LambdaAula10.JavaLambdaFunctionalInterfaces",
+            "projectName": "LambdaJava_372913c4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaLambdaActionListener",
+            "request": "launch",
+            "mainClass": "LambdaAula1.JavaLambdaActionListener",
+            "projectName": "LambdaJava_372913c4"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaLambdaRunnable",
+            "request": "launch",
+            "mainClass": "LambdaAula1.JavaLambdaRunnable",
+            "projectName": "LambdaJava_372913c4"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaLambdaStream",
+            "request": "launch",
+            "mainClass": "LambdaAula1.JavaLambdaStream",
+            "projectName": "LambdaJava_372913c4"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaLambdaStream(1)",
+            "request": "launch",
+            "mainClass": "LambdaAula2.JavaLambdaStream",
+            "projectName": "LambdaJava_372913c4"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaLambdaStream(2)",
+            "request": "launch",
+            "mainClass": "LambdaAula3.JavaLambdaStream",
+            "projectName": "LambdaJava_372913c4"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaLambdaOptional",
+            "request": "launch",
+            "mainClass": "LambdaAula4.JavaLambdaOptional",
+            "projectName": "LambdaJava_372913c4"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaLambdaStreamReduce",
+            "request": "launch",
+            "mainClass": "LambdaAula5.JavaLambdaStreamReduce",
+            "projectName": "LambdaJava_372913c4"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaLambdaStreamCollect",
+            "request": "launch",
+            "mainClass": "LambdaAula6.JavaLambdaStreamCollect",
+            "projectName": "LambdaJava_372913c4"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaLambda",
+            "request": "launch",
+            "mainClass": "LambdaAula7.JavaLambda",
+            "projectName": "LambdaJava_372913c4"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaMethodReference",
+            "request": "launch",
+            "mainClass": "LambdaAula8.JavaMethodReference",
+            "projectName": "LambdaJava_372913c4"
+        },
+        {
+            "type": "java",
+            "name": "Launch JavaLambdaDebug",
+            "request": "launch",
+            "mainClass": "LambdaAula9.JavaLambdaDebug",
+            "projectName": "LambdaJava_372913c4"
+        }
+    ]
+}
