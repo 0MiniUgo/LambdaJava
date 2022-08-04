@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch FilterStrings",
+            "request": "launch",
+            "mainClass": "Exercicios.code_exercises.FilterStrings",
+            "projectName": "LambdaJava_372913c4"
+        },
+        {
+            "type": "java",
+            "name": "Launch HackerRankLambda",
+            "request": "launch",
+            "mainClass": "Exercicios.JavaLambdaExpressionsHackerRank.HackerRankLambda",
+            "projectName": "LambdaJava_372913c4"
+        },
+        {
+            "type": "java",
             "name": "Launch JavaLambdaStreamsParalelos",
             "request": "launch",
             "mainClass": "LambdaAula13.JavaLambdaStreamsParalelos",
